@@ -27,6 +27,7 @@ Cpp solutions to Leetcode problems organized by patterns
 | [0027-remove-element](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -62,6 +63,7 @@ Cpp solutions to Leetcode problems organized by patterns
 | [0001-two-sum](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -74,4 +76,9 @@ Cpp solutions to Leetcode problems organized by patterns
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
