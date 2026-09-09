@@ -12,6 +12,7 @@ Cpp solutions to Leetcode problems organized by patterns
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -52,6 +53,7 @@ Cpp solutions to Leetcode problems organized by patterns
 | ------- |
 | [0015-3sum](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -158,4 +160,8 @@ Cpp solutions to Leetcode problems organized by patterns
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
