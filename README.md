@@ -28,6 +28,7 @@ Cpp solutions to Leetcode problems organized by patterns
 | [0918-maximum-sum-circular-subarray](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -49,6 +50,7 @@ Cpp solutions to Leetcode problems organized by patterns
 | [0457-circular-array-loop](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -165,4 +167,8 @@ Cpp solutions to Leetcode problems organized by patterns
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/iosmaaz07-web/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
